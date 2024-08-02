@@ -139,6 +139,8 @@
     
 - [ ] J264\_최혁
   - day 11~12 : 비동기, 이벤트 핸들러,Promise, Event Emitter 지난주에 활용했던 개념들이 다시 섞여서 출현했다.
+  - ![image](https://github.com/user-attachments/assets/de24a426-21ab-41ec-970a-ad3a342bedeb)
+
   - day 13~14 : 입출력 부분에서 promise, async/awiat을 활용한 비동기 부분을 활용했어야 했다.
 - [ ] S057\_임정현
 
