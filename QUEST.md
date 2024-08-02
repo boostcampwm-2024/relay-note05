@@ -109,6 +109,10 @@
 
 <br>
 
+<details>
+<summary>이전 패치내역2</summary>
+
+
 ## 퀘스트 선택 이유
 
 - J022\_김경연 : [Q1 **체력은 ~~국력~~ 코딩력!**] - 5일째 밖에 안나갔다. 사람이 그래도 하루에 한번은 밖에 나갔다 와야할 것 같아서 골랐다.
@@ -145,6 +149,9 @@
 - [ ] S057\_임정현
 
     <img src="https://github.com/user-attachments/assets/2c3a9dc9-59a8-4126-b6fb-971aa9d12078" alt="alt text" style="width: 70%;" />
+
+
+</details>
 
 <details>
 <summary>이전 패치내역</summary>
