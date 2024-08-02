@@ -98,7 +98,8 @@
 
 # 5️⃣ 퀘스트\_05. 부캠의 날씨요정되기!
 
-<img src="https://gist.github.com/user-attachments/assets/5d3e7979-7c1c-4e3b-85f8-4cc7732e49b7"/>
+![20180120_1516443948_62627500_1](https://github.com/user-attachments/assets/aeafc9a5-52a4-461e-b5a9-9a3d262997aa)
+
 
   <br>
 
