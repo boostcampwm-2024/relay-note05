@@ -141,6 +141,7 @@
   - day 11~12 : 비동기, 이벤트 핸들러,Promise, Event Emitter 지난주에 활용했던 개념들이 다시 섞여서 출현했다.
   - day 13~14 : 입출력 부분에서 promise, async/awiat을 활용한 비동기 부분을 활용했어야 했다.
 - [ ] S057\_임정현
+    <img src="https://github.com/user-attachments/assets/2c3a9dc9-59a8-4126-b6fb-971aa9d12078" alt="alt text" style="width: 70%;" />
 
 <details>
 <summary>이전 패치내역</summary>
