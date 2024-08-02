@@ -126,6 +126,13 @@
   - day 11~12 :
     이악물고 멀티배송까지 구현버리깅(너무 어려웠지만 그래도 점점 감이 잡히는 것 같다)
 - [ ] J252\_최경일
+    
+    ![image](https://github.com/user-attachments/assets/8b959b5d-ee46-4314-bc9c-e2534f9c2aff)
+    ![image](https://github.com/user-attachments/assets/b208d40f-b669-4a31-ae55-8e27496f2a6d)
+    ![image](https://github.com/user-attachments/assets/869154ff-3e80-4cb7-8d2c-32c5edea4bda)
+    ![image](https://github.com/user-attachments/assets/2aa3ecaa-0558-488c-86e5-3d42cae1b341)
+
+    
 - [ ] J264\_최혁
   - day 11~12 : 비동기, 이벤트 핸들러,Promise, Event Emitter 지난주에 활용했던 개념들이 다시 섞여서 출현했다.
   - day 13~14 : 입출력 부분에서 promise, async/awiat을 활용한 비동기 부분을 활용했어야 했다.
